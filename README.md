@@ -3,7 +3,7 @@
 # Arena Battle Simulator
 
 ## Overview
-The Arena Battle Simulator is a Java application that simulates battles between two players in an arena. It allows you to create players with customizable attributes such as health, strength, and attack, and then pits them against each other using dice rolls to determine the outcome of each attack.
+The Arena Battle Simulator is a Java application that simulates battles between two players in an arena. It allows us to create players with customizable attributes such as health, strength, and attack, and then pits them against each other using dice rolls to determine the outcome of each attack.
 
 ## Features
 Create customizable players with different attributes.
@@ -13,9 +13,9 @@ Determine the winner of each battle based on the players' health.
 ## Installation
 To use the Arena Battle Simulator, follow these steps:
 
-Ensure you have Java installed on your system.
+Ensure we have Java installed on your system.
 Clone or download the project files from the GitHub repository.
-Open the project in your preferred Java IDE.
+Open the project in our preferred Java IDE.
 Compile and run the Main class to start the simulation.
 ## Usage
 ### Creating Players
@@ -38,6 +38,6 @@ The outcome of each battle will be displayed in the console, showing the attacks
 ### Extensibility
 The Arena Battle Simulator is designed to be extensible, allowing for future enhancements and modifications:
 
-#### Custom Player Types: You can create custom player types by implementing the Player interface.
+#### Custom Player Types: We can create custom player types by implementing the Player interface.
 #### Custom Dice: Different types of dice can be implemented by implementing the Dice interface.
 #### Additional features: The codebase can be extended to include new features such as special player abilities or advanced battle mechanics.
